@@ -1,0 +1,1 @@
+pliki CSV lub sqllite
