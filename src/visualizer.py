@@ -1,7 +1,6 @@
 import streamlit as st
 
 def start():
-    print("visualizer")
 
     st.title("Analizowanie danych gier")
     st.markdown(
@@ -12,3 +11,6 @@ def start():
 
     if st.button("Send balloons!"):
         st.balloons()
+
+if __name__ == "__main__":
+  start()
